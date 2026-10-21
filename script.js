@@ -115,7 +115,7 @@ const comparisons = [
     currentImages: [
       {
         image: "images/h2.jpg",
-        title: "The building today",
+        title: "Just a building",
         date: "NOW",
         description:
           "Today, a modern eight-story building occupies this location. Huitzilli, the former shop specializing in Mexican clothing, handmade crafts, and jewelry, is no longer here."
@@ -146,7 +146,7 @@ const comparisons = [
       },
       {
         image: "images/v3.jpeg",
-        title: "The location today",
+        title: "Salt + Charcoal",
         date: "NOW",
         description:
           "This photo shows the location today, where Salt + Charcoal now stands in place of the former La Villita Bakery."
