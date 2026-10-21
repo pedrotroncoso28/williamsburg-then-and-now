@@ -67,7 +67,7 @@ const comparisons = [
       },
       {
         image: "images/borinquen3.jpeg",
-        title: "The location today",
+        title: "Citibank",
         date: "NOW",
         description:
           "Today, a Citibank branch occupies this location. The former neighborhood business is no longer here."
